@@ -3,7 +3,12 @@ body {
 }
 
 header {
-    background-color: grey;
+    background-color: cadetblue;
+
+}
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 header.blocktext {
@@ -14,5 +19,5 @@ header.blocktext {
 
 intro {
     align-content: center;
-    width
+    width: 100%;
 }
